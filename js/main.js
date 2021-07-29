@@ -26,6 +26,6 @@ if(hour < 3){
     document.getElementById("hi").innerHTML = "Happy laziness in progress"
 }else {
     document.getElementById("hi").innerHTML = "Good night"
-};
+}
 //footer year
 document.getElementById("year").innerHTML = year;
