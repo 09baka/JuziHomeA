@@ -41,45 +41,45 @@ header {
 	box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
 }
 header .background, header .background .shelter {
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    width: 100%;
-    background-position: center center;
-    background-size: cover;
-    z-index: -1;
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	width: 100%;
+	background-position: center center;
+	background-size: cover;
+	z-index: -1;
 	min-height: 100vh;
 	background-image: url(../image/bg.jpg);
 }
 header .background .shelter {
-    background-color: #000;
-    background-image: url(../image/headerbackground.png);
+	background-color: #000;
+	background-image: url(../image/headerbackground.png);
 	background-repeat: repeat;
-    background-size: 32px 32px;
-    opacity: .6;
+	background-size: 32px 32px;
+	opacity: .6;
 }
 header .main {
 	display: table-cell;
-    vertical-align: middle;
-    -webkit-animation: topMain 2s cubic-bezier(0, 0, 0.2, 1);
-    -moz-animation: topMain 2s cubic-bezier(0, 0, 0.2, 1);
+	vertical-align: middle;
+	-webkit-animation: topMain 2s cubic-bezier(0, 0, 0.2, 1);
+	-moz-animation: topMain 2s cubic-bezier(0, 0, 0.2, 1);
 	-o-animation: topMain 2s cubic-bezier(0, 0, 0.2, 1);
 	animation: topMain 2s cubic-bezier(0, 0, 0.2, 1);
 }
 header .content img {
-    height: 10em;
+	height: 10em;
 	width: 10em;
 	border-radius: 10em;
 	background-color: #383838b5;
 }
 header .content .text {
-    font-family: 'ZCOOL KuaiLe', cursive;
+	font-family: 'ZCOOL KuaiLe', cursive;
 }
 header .content .text h1 {
-    font-weight: lighter;
+	font-weight: lighter;
 }
 /* Content section */
 #nya{
@@ -112,14 +112,14 @@ header .content .text h1 {
 #end{
 	color: #535353;
 	font-size: 1.5em;
-    text-align: center;
-    margin-top: 30px;
-    margin-bottom: -50px;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: -50px;
 }
 #end span{
 	font-size: small;
-    display: block;
-    margin-top: 4px;
+	display: block;
+	margin-top: 4px;
 }
 .Dbottom{
 	text-align: right;
@@ -134,18 +134,18 @@ footer {
 footer a {
 	color: #959595;
 	-webkit-transition: color 0.2s;
-    -moz-transition: color 0.2s;
-    -ms-transition: color 0.2s;
-    -o-transition: color 0.2s;
-    transition: color 0.2s;
+	-moz-transition: color 0.2s;
+	-ms-transition: color 0.2s;
+	-o-transition: color 0.2s;
+	transition: color 0.2s;
 }
 footer a:hover {
 	color: #fff;
 	-webkit-transition: color 0.2s;
-    -moz-transition: color 0.2s;
-    -ms-transition: color 0.2s;
-    -o-transition: color 0.2s;
-    transition: color 0.2s;
+	-moz-transition: color 0.2s;
+	-ms-transition: color 0.2s;
+	-o-transition: color 0.2s;
+	transition: color 0.2s;
 }
 /* mod */
 .gottop{
@@ -161,45 +161,45 @@ footer a:hover {
 	padding: 20px 40PX;
 	margin-top: 20px;
 	-webkit-transition: color 0.3s,border 0.2s;
-    -moz-transition: color 0.3s,border 0.2s;
-    -ms-transition: color 0.3s,border 0.2s;
-    -o-transition: color 0.3s,border 0.2s;
-    transition: color 0.3s,border 0.2s;
+	-moz-transition: color 0.3s,border 0.2s;
+	-ms-transition: color 0.3s,border 0.2s;
+	-o-transition: color 0.3s,border 0.2s;
+	transition: color 0.3s,border 0.2s;
 }
 .gottop a:hover {
 	border: 2px solid #fff;
 	color: #fff;
 	-webkit-transition: color 0.3s,border 0.2s;
-    -moz-transition: color 0.3s,border 0.2s;
-    -ms-transition: color 0.3s,border 0.2s;
-    -o-transition: color 0.3s,border 0.2s;
-    transition: color 0.3s,border 0.2s;
+	-moz-transition: color 0.3s,border 0.2s;
+	-ms-transition: color 0.3s,border 0.2s;
+	-o-transition: color 0.3s,border 0.2s;
+	transition: color 0.3s,border 0.2s;
 }
 /* submit */
 .submitA {
 	display: inline-block;
-    background-color: #0c73c2;
-    padding: 10px 20PX;
-    border-radius: 10px;
-    color: #fff;
-    margin: 10px 10px 10px 0;
+	background-color: #0c73c2;
+	padding: 10px 20PX;
+	border-radius: 10px;
+	color: #fff;
+	margin: 10px 10px 10px 0;
 	-webkit-transition: background-color 0.2s;
-    -moz-transition: background-color 0.2s;
-    -ms-transition: background-color 0.2s;
-    -o-transition: background-color 0.2s;
-    transition: background-color 0.2s;
+	-moz-transition: background-color 0.2s;
+	-ms-transition: background-color 0.2s;
+	-o-transition: background-color 0.2s;
+	transition: background-color 0.2s;
 }
 .submitA:hover {
-    background-color: #00bcd4;
+	background-color: #00bcd4;
 	-webkit-transition: background-color 0.2s;
-    -moz-transition: background-color 0.2s;
-    -ms-transition: background-color 0.2s;
-    -o-transition: background-color 0.2s;
-    transition: background-color 0.2s;
+	-moz-transition: background-color 0.2s;
+	-ms-transition: background-color 0.2s;
+	-o-transition: background-color 0.2s;
+	transition: background-color 0.2s;
 }
 .submitB {
 	display: inline-block;
-    margin: 10px 10px 10px 0;
+	margin: 10px 10px 10px 0;
 }
 .submitB p {
 	display: inline-block;
@@ -214,51 +214,51 @@ footer a:hover {
 	color:#2196f3;
 	border-radius:10px;
 	-webkit-transition: background-color 0.2s;
-    -moz-transition: background-color 0.2s;
-    -ms-transition: background-color 0.2s;
-    -o-transition: background-color 0.2s;
-    transition: background-color 0.2s;
+	-moz-transition: background-color 0.2s;
+	-ms-transition: background-color 0.2s;
+	-o-transition: background-color 0.2s;
+	transition: background-color 0.2s;
 }
 .submitB:hover div{
 	color: #fff;
 	background:#2196f3;
 	-webkit-transition: background-color 0.2s;
-    -moz-transition: background-color 0.2s;
-    -ms-transition: background-color 0.2s;
-    -o-transition: background-color 0.2s;
-    transition: background-color 0.2s;
+	-moz-transition: background-color 0.2s;
+	-ms-transition: background-color 0.2s;
+	-o-transition: background-color 0.2s;
+	transition: background-color 0.2s;
 }
 
 /* Effect animation */
 @keyframes topMain {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
 }
 @-moz-keyframes topMain {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
 }
 @-webkit-keyframes topMain {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
 }
 @-o-keyframes topMain {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
 }
