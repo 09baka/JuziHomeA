@@ -1,9 +1,8 @@
-# About
-This is my current home page, if you need it you can take it and use it  
-I'm sorry that my code is not very good  
-There are still some bugs, but I don't know how to fix them. So they will exist  
+# 关于
+这是重写后的版本老版本也保留了请到分支[**lodVer**](https://github.com/09baka/JuziHomeA/tree/lodVer)下载。
+如果你喜欢它很高兴你会使用它。
 
-# look
+# 展示
 ![image](https://github.com/09baka/JuziHomeA/blob/main/Renderings.jpeg)
 
 ## Design by JuziYou
