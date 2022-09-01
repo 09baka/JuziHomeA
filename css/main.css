@@ -235,7 +235,7 @@ header .my .gottop a:hover {
     width: 109px;
     height: 99px;
     transform: translateY(14.7px);
-    background-image: url(../img/sprites.png);
+    background-image: url(../image/sprites.png);
     background-size: 400px auto;
     background-position: -4px -132px;
 }
