@@ -4,7 +4,7 @@ I'm sorry that my code is not very good
 There are still some bugs, but I don't know how to fix them. So they will exist  
 
 # look
-![image](https://github.com/09baka/JuziHomeA/blob/main/Renderings.jpeg)
+![image](https://github.com/09baka/JuziHomeA/blob/lodVer/Renderings.jpeg)
 
 ## Design by JuziYou
 **Free for personal use under the CCA 3.0 license**
