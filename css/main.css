@@ -90,8 +90,9 @@ header .mask {
     z-index: -99;
     width: 100%;
     height: 100vh;
-    background-color: #000;
-    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAG9JREFUeNpi/P//P8NAAiaGAQajDhh1wKgDRh0w6oABdwALOZpkZGSwij958oSuIeAExOeh2GkgoqAXiMWhuHeg0wDjQDigBIhfAfELIC6mayKEgr1AbEBx0I02yUYdMOqAUQeMOmDUAQPtAIAAAwBuqhBOnNqSNAAAAABJRU5ErkJggg==');
+    background: #000;
+    background-size: 32px 32px;
+    background-image: radial-gradient(farthest-side, #ffffff26 1%, transparent 10%);
     opacity: .6;
 }
 
