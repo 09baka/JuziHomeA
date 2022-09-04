@@ -92,7 +92,7 @@ header .mask {
     height: 100vh;
     background: #000;
     background-size: 32px 32px;
-    background-image: radial-gradient(farthest-side, #ffffff26 1%, transparent 10%);
+    background-image: radial-gradient(farthest-side, #ffffff26 10%, transparent 10%);
     opacity: .6;
 }
 
