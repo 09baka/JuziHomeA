@@ -78,7 +78,7 @@ header .pic {
     height: 100vh;
     background-image: url('../image/bg.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto cover;
     background-position: center center;
 }
 
