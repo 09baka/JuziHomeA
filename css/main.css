@@ -36,19 +36,16 @@ li {
 
 /* 鼠标滚动条 */
 body::-webkit-scrollbar {
-    width: 8px;
+    width: 4px;
     height: 1px;
 }
 
 body::-webkit-scrollbar-thumb {
-    border-radius: 10px;
-    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
-    background: #535353;
+    border-radius: 2px;
+    background: #777;
 }
 
 body::-webkit-scrollbar-track {
-    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
-    border-radius: 10px;
     background: #383838;
 }
 
