@@ -326,3 +326,52 @@ footer a:hover {
         color: #000;
     }
 }
+
+/* 暗色模式 */
+@media (prefers-color-scheme: dark) {
+    body {
+        background: #383838;
+    }
+    a {
+        color: #f0f0f0;
+    }
+    .boxShadow {
+        box-shadow: 0px 1em 1em -20px rgb(255 255 255 / 25%);
+    }
+    header .mask {
+        opacity: 0.7;
+    }
+    footer {
+        background-color: #2c2a2a;
+    }
+    .location {
+        background-color: #2c2a2a;
+        color: #f0f0f0;
+    }
+    .hello {
+        color: #f0f0f0;
+    }
+    .links li a {
+        border-bottom: 1px dotted #f0f0f0;
+    }
+    .links li a:hover {
+        color: #383838;
+        background: #f0f0f0;
+        border-bottom: 1px solid #f0f0f0;
+    }
+    .buttonA, .main .content .posts li a {
+        border-color: #f0f0f0;
+    }
+    .buttonA:hover, .main .content .posts li:hover a {
+        color: #383838;
+        background-color: #f0f0f0;
+    }
+    .main .content h2 {
+        border-color: #f0f0f0;
+        color: #f0f0f0;
+    }
+    .main .content:hover h2 {
+        color: #f0f0f0;
+        border-color: #f0f0f0;
+    }
+}
