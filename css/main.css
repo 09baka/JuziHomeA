@@ -259,11 +259,16 @@ footer a:hover {
 }
 
 /* links */
-.links li{
+.links li {
     display: inline-block;
+    margin-right: .5em;
 }
 
-.links li a{
+.links li:last-child {
+    margin-right: 0;
+}
+
+.links li a {
     display: block;
     padding: 0 1em;
     height: 3em;
